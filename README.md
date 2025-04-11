@@ -95,15 +95,10 @@ Frontend will run on:
 - All filters and sorters are dynamically connected to backend responses.
 - This project was made as part of a learning journey into full-stack development.
 
----
-
-## 📷 Screenshots
-
-*(Add screenshots here if you'd like, e.g. UI preview)*
 
 ---
 
 ## 🤝 Author
 
-👩‍💻 Anja Catić  
+👩‍💻 Tamara Sarajlija  
 Feel free to reach out or contribute!
