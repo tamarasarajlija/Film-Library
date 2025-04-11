@@ -1,0 +1,19 @@
+.filterWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.select {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: border-color 0.3s ease;
+}
+
+.select:focus {
+  outline: none;
+  border-color: #222;
+}

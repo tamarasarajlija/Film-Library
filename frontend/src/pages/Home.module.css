@@ -1,0 +1,35 @@
+/* src/pages/Home.module.css */
+
+.container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .filters {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .filters input[type="text"],
+  .filters select {
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+  
+  .filters input[type="range"] {
+    margin-left: 10px;
+  }
+  
+  .moviesGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  

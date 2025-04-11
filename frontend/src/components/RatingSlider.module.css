@@ -1,0 +1,14 @@
+.sliderWrapper {
+  margin: 1.5rem auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+.sliders {
+  margin-top: 0.5rem;
+}
+
+input[type="range"] {
+  width: 100%;
+  cursor: pointer;
+}

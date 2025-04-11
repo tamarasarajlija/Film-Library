@@ -1,0 +1,18 @@
+/* src/components/NoResults.module.css */
+
+.noResults {
+    text-align: center;
+    margin-top: 50px;
+    color: #666;
+  }
+  
+  .icon {
+    font-size: 50px;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .message {
+    font-size: 18px;
+  }
+  

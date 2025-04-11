@@ -1,0 +1,38 @@
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  justify-content: center;
+  padding: 2rem 4rem;
+}
+
+/* Wrapper for all filter elements in one row */
+.filtersWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem 2rem;
+}
+
+/* Sort + Reset button container */
+.sortResetContainer {
+  display: flex;
+  gap: 0.5rem;
+}
+
+/* Uniform button style for all action buttons */
+.styledButton {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f2f2f2;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.styledButton:hover {
+  background-color: #ddd;
+}
