@@ -5,7 +5,7 @@ A full-stack movie rental application that allows users to search, filter, sort,
 ## 📁 Project Structure
 
 ```
-projekatGit/
+FilmLibrary/
 │
 ├── frontend/      # React.js frontend
 ├── backend/       # Spring Boot backend
